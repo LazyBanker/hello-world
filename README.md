@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Greetings earthlings
+
+I have come to learn your ways, and eat your beer-battered fish tacos from Del Taco.
